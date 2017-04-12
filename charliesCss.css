@@ -1,0 +1,56 @@
+h1 {
+	 text-align:center;
+	 color: orange;
+}
+
+body {
+	 background-color: grey;
+}
+
+h2 {
+	 text-align: right;
+	 color: orange;
+	 margin-right: 260px;
+}
+img {margin-left: 150px;
+}
+
+p {
+    text-align: right;
+    color: orange;
+    margin-right: 180px;
+    margin-bottom: 150px;
+    float:right;
+}
+.triangle {
+  width: 0;
+  height: 0;
+  border-left-width: 80px;
+  border-left-style: solid;
+  border-left-color: transparent;
+  border-right-width: 80px;
+  border-right-style: solid;
+  border-right-color: transparent;
+  border-bottom-width: 100px;
+  border-bottom-style: solid;
+  border-bottom-color: blue;
+  margin-left: 280px;
+}
+.triangle {
+  width: 0;
+  height: 0;
+  border-left-width: 80px;
+  border-left-style: solid;
+  border-left-color: transparent;
+  border-right-width: 80px;
+  border-right-style: solid;
+  border-right-color: transparent;
+  border-bottom-width: 100px;
+  border-bottom-style: solid;
+  border-bottom-color: green
+  margin-left: 350px;
+}
+
+
+
+  
