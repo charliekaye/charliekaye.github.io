@@ -22,35 +22,51 @@ p {
     margin-bottom: 150px;
     float:right;
 }
-.triangle {
+.triangle1 {
   width: 0;
   height: 0;
-  border-left-width: 80px;
+  border-left-width: 100px;
   border-left-style: solid;
   border-left-color: transparent;
-  border-right-width: 80px;
+  border-right-width: 100px;
   border-right-style: solid;
   border-right-color: transparent;
-  border-bottom-width: 100px;
+  border-bottom-width: 125px;
   border-bottom-style: solid;
   border-bottom-color: blue;
   margin-left: 280px;
+  float:left;
 }
-.triangle {
+.triangle2 {
   width: 0;
   height: 0;
-  border-left-width: 80px;
+  border-left-width: 100px;
   border-left-style: solid;
   border-left-color: transparent;
-  border-right-width: 80px;
+  border-right-width: 100px;
   border-right-style: solid;
   border-right-color: transparent;
-  border-bottom-width: 100px;
+  border-bottom-width: 125px;
   border-bottom-style: solid;
-  border-bottom-color: green
-  margin-left: 350px;
+  border-bottom-color: blue;
+  margin-right: 30%;
+  float:right;
+  font-size: 20px;
 }
-
-
+.triangle3 {
+  width: 0;
+  height: 0;
+  border-left-width: 100px;
+  border-left-style: solid;
+  border-left-color: transparent;
+  border-right-width: 100px;
+  border-right-style: solid;
+  border-right-color: transparent;
+  border-bottom-width: 125px;
+  border-bottom-style: solid;
+  border-bottom-color: blue;
+  margin-left: 75%;
+  float: center;
+}
 
   
